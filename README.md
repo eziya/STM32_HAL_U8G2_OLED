@@ -1,8 +1,7 @@
 # STM32_HAL_U8G2_OLED
 Port of U8G2 Library for STM32 HAL
 
-Reference<br>
-https://github.com/olikraus/u8g2 <br>
+Reference : https://github.com/olikraus/u8g2 <br>
 This is a port of u8g2 library written by olikraus. <br>
 
 I followed a porting guide from https://github.com/olikraus/u8g2/wiki/Porting-to-new-MCU-platform <br>
