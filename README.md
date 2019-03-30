@@ -6,11 +6,12 @@ https://github.com/olikraus/u8g2
 This is a port of u8g2 library written by olikraus. <br>
 
 I followed porting guide from https://github.com/olikraus/u8g2/wiki/Porting-to-new-MCU-platform <br>
-Only change I made was writing callback functions for I2C, SPI and delay like below.
-
-I've tested it on STM32F4-DISCO board and it worked for both interface.
+Only change I made was writing callback functions for I2C, SPI and delay like below.<br>
+<br>
+I've tested it on STM32F4-DISCO board and it worked for both interface.<br>
+<br>
 ![u8g2](./u8g2.jpg)<br>
-
+<br>
 [u8g2_stm32f4.c]
 ```
 #include "main.h"
